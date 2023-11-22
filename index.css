@@ -1,0 +1,27 @@
+.contentBody{
+    border: 1px solid black;
+    width: 30%;
+    height: 50vh !important;
+    /* position: relative;
+    left: 25%; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.outer{
+    display: flex;
+    position: relative;
+    top: 140px;
+    justify-content: center;
+    align-items: center; 
+}
+
+.longUrl{
+    margin-bottom: 20px;
+}
+
+.UrlText{
+    width: 120%;
+}

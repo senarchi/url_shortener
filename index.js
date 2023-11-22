@@ -1,0 +1,1 @@
+const contentBody = document.getElementsByClassName('.contentBody');
